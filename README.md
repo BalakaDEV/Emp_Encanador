@@ -6,4 +6,5 @@
 - MS: 0.3 
 - Suporte e créditos: Balakaッ#2206
 
-![preview](https://www.youtube.com/watch?v=ZHezsieV44A)
+[![Preview + Funcionamento ](http://img.youtube.com/vi/ZHezsieV44A/0.jpg)](http://www.youtube.com/watch?v=ZHezsieV44A "Emprego De Encanador")
+
