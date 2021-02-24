@@ -13,5 +13,5 @@
 
 ➢ **Instalação:**
 
-- 1. Coloque a pasta emp_encanador no diretorio das resources do seu servidor.
-- 2. Faça o start do script em seu server.cfg [start emp_encanador]
+- Coloque a pasta emp_encanador no diretorio das resources do seu servidor.
+- Faça o start do script em seu server.cfg [start emp_encanador]
