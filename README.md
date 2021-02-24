@@ -10,3 +10,8 @@
 
 [![Preview + Funcionamento ](http://img.youtube.com/vi/ZHezsieV44A/0.jpg)](http://www.youtube.com/watch?v=ZHezsieV44A "Emprego De Encanador")
 
+
+➢ **Instalação:**
+
+- 1. Coloque a pasta emp_encanador no diretorio das resources do seu servidor.
+- 2. Faça o start do script em seu server.cfg [start emp_encanador]
