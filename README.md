@@ -4,7 +4,7 @@
 - Fivem
 - Framework: vRPeX
 - MS: 0.3 
-- Suporte e créditos: Balaka#2206
+- Suporte e créditos: cr$ Balaka#0001
 
 
 ➢ **Preview + Funcionamento**
