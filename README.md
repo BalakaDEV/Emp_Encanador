@@ -2,7 +2,7 @@
 - Fivem
 - Framework: vRPeX
 - MS: 0.3 
-- Suporte e créditos: Balaka#0001
+- Suporte e créditos: Balaka#9918
 
 
 ```Visualização```
