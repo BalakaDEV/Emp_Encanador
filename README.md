@@ -1,5 +1,3 @@
-## <img src="https://media.discordapp.net/attachments/799515684278632468/849103782913769472/balaka.png" width="800px">
-
 ```Apresentação```
 - Fivem
 - Framework: vRPeX
