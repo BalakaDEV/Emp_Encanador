@@ -1,4 +1,4 @@
-## <img src="https://media.discordapp.net/attachments/799515684278632468/849103782913769472/balaka.png" width="30px"> Hellooo Helloo World! </h2>
+## <img src="https://media.discordapp.net/attachments/799515684278632468/849103782913769472/balaka.png" width="30px">
 
 ```Apresentação```
 - Fivem
