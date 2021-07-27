@@ -11,3 +11,5 @@
 ## 🔎 [Video de visualização / Preview Video]
 
 [![Preview + Funcionamento ](http://img.youtube.com/vi/ZHezsieV44A/0.jpg)](http://www.youtube.com/watch?v=ZHezsieV44A "Emprego De Encanador")
+
+© 2021 Guilherme Balaka All Rights Reserved
